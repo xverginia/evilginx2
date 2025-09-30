@@ -1,16 +1,17 @@
 <h1><span style="color:#e60000;">Evilginx</span> | <span style="color:#0080ff;">Xverginia-Phishlets</span></h1>
 <p>🛡️ Many Evilginx2 Phishlets – Fully Updated (2025)</p>
+  
+---                                                        
+ᅠᅠᅠᅠᅠᅠᅠᅠ                     
+<img width="797" height="290" alt="Screenshot - 14_09_2025 , 2_11_23 PM" src="https://github.com/user-attachments/assets/8032bed6-3ba1-4c2d-9ce7-a96bb6321e7f" />
 
----
-ᅠᅠᅠᅠᅠᅠᅠᅠ
-![455384786-c244a786-f58e-4163-ba73-1b1d0a1578f8](https://github.com/user-attachments/assets/34323cc1-4d82-4655-aca5-24404b6e599b)
-![photo_2025-06-16_10-39-32](https://github.com/user-attachments/assets/c255acdb-4476-433d-acfe-3b63690a89e9)
-![photo_2025-06-16_10-40-50](https://github.com/user-attachments/assets/654ddbd6-4fd8-413f-bbf6-212b8e5d5716)
-![photo_2025-06-16_10-41-17](https://github.com/user-attachments/assets/b34fc00e-2c66-4991-96b6-5c23cadbf82e)
+<img width="942" height="402" alt="Screenshot - 14_09_2025 , 2_14_13 PM" src="https://github.com/user-attachments/assets/415c0d90-e918-4e40-9a6e-2cc81f03a4d4" />
 
+
+  
 # 🔥 Xverginia v4.1 Pro Features – Professional Toolkit 🔥
-
----
+  
+---  
 
 ## 🔥 Clean Lure Paths
 - `...` + base64 encoded path
@@ -147,3 +148,8 @@ The following phishlets are currently in development or being tested.
 # This Version & phishlets are fully working and available.  
 # 📬 Contact on Telegram: [@fabrikano](https://t.me/fabrikano)
 
+
+
+
+⚠️ Legal Disclaimer:
+All tools and simulations are for educational and research purposes only. Do not use this knowledge unethically or for illegal activity.
